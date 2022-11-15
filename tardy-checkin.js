@@ -1,4 +1,5 @@
-$(function() {
+(function () {
+//$(function() {
 		const macrourl=()=>{return "https://script.google.com/macros/s/AKfycbwSGPtf0tVKxpapXxYVsk1XfJhHot0q6LQOgQGWO0OMpOAcTcWKgUB11vlkfXTEaSkm/exec"}
     const now=()=>{return new Date(Date.now()).toLocaleString('en-US',{weekday: 'short', month: 'short', day: 'numeric',year: 'numeric',hour: 'numeric',minute: 'numeric',hour12: true});}
     var obj,firstnames,lastnames, fullnames;
@@ -132,4 +133,5 @@ $(function() {
      }
    
     
-});
+//});
+})();
