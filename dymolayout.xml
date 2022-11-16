@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DieCutLabel Version="8.0" Units="twips">
+    <PaperOrientation>Portrait</PaperOrientation>
+    <Id>LargeShipping</Id>
+    <PaperName>30256 Shipping</PaperName>
+    <DrawCommands>
+        <RoundRectangle X="0" Y="0" Width="3331" Height="5715" Rx="270" Ry="270" />
+    </DrawCommands>
+    <ObjectInfo>
+        <ImageObject>
+            <Name>Graphic</Name>
+            <ForeColor Alpha="255" Red="0" Green="0" Blue="0" />
+            <BackColor Alpha="0" Red="255" Green="255" Blue="255" />
+            <LinkedObjectName></LinkedObjectName>
+            <Rotation>Rotation0</Rotation>
+            <IsMirrored>False</IsMirrored>
+            <IsVariable>False</IsVariable>
+            <Image>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</Image>
+            <ScaleMode>Uniform</ScaleMode>
+            <BorderWidth>0</BorderWidth>
+            <BorderColor Alpha="255" Red="0" Green="0" Blue="0" />
+            <HorizontalAlignment>Center</HorizontalAlignment>
+            <VerticalAlignment>Top</VerticalAlignment>
+        </ImageObject>
+        <Bounds X="200" Y="350" Width="3000" Height="3000" />
+    </ObjectInfo>
+    <ObjectInfo>
+        <TextObject>
+            <Name>PassText</Name>
+            <ForeColor Alpha="255" Red="0" Green="0" Blue="0" />
+            <BackColor Alpha="0" Red="255" Green="255" Blue="255" />
+            <LinkedObjectName></LinkedObjectName>
+            <Rotation>Rotation0</Rotation>
+            <IsMirrored>False</IsMirrored>
+            <IsVariable>False</IsVariable>
+            <HorizontalAlignment>Center</HorizontalAlignment>
+            <VerticalAlignment>Middle</VerticalAlignment>
+            <TextFitMode>AlwaysFit</TextFitMode>
+            <UseFullFontHeight>False</UseFullFontHeight>
+            <Verticalized>False</Verticalized>
+            <StyledText>
+                <Element>
+                    <String>Tardy Pass</String>
+                    <Attributes>
+                        <Font Family="Arial" Size="12" Bold="False" Italic="False" Underline="False" Strikeout="False" />
+                        <ForeColor Alpha="255" Red="0" Green="0" Blue="0" />
+                    </Attributes>
+                </Element>
+            </StyledText>
+        </TextObject>
+        <Bounds X="175" Y="2700" Width="3000" Height="345" />
+    </ObjectInfo>
+    <ObjectInfo>
+        <TextObject>
+            <Name>PeriodText</Name>
+            <ForeColor Alpha="255" Red="0" Green="0" Blue="0" />
+            <BackColor Alpha="0" Red="255" Green="255" Blue="255" />
+            <LinkedObjectName></LinkedObjectName>
+            <Rotation>Rotation0</Rotation>
+            <IsMirrored>False</IsMirrored>
+            <IsVariable>False</IsVariable>
+            <HorizontalAlignment>Center</HorizontalAlignment>
+            <VerticalAlignment>Middle</VerticalAlignment>
+            <TextFitMode>AlwaysFit</TextFitMode>
+            <UseFullFontHeight>False</UseFullFontHeight>
+            <Verticalized>False</Verticalized>
+            <StyledText>
+                <Element>
+                    <String>[period]</String>
+                    <Attributes>
+                        <Font Family="Arial" Size="12" Bold="False" Italic="False" Underline="False" Strikeout="False" />
+                        <ForeColor Alpha="255" Red="0" Green="0" Blue="0" />
+                    </Attributes>
+                </Element>
+            </StyledText>
+        </TextObject>
+        <Bounds X="175" Y="3200" Width="3000" Height="345" />
+    </ObjectInfo>
+    <ObjectInfo>
+        <TextObject>
+            <Name>DateTime</Name>
+            <ForeColor Alpha="255" Red="0" Green="0" Blue="0" />
+            <BackColor Alpha="0" Red="255" Green="255" Blue="255" />
+            <LinkedObjectName></LinkedObjectName>
+            <Rotation>Rotation0</Rotation>
+            <IsMirrored>False</IsMirrored>
+            <IsVariable>False</IsVariable>
+            <HorizontalAlignment>Center</HorizontalAlignment>
+            <VerticalAlignment>Middle</VerticalAlignment>
+            <TextFitMode>AlwaysFit</TextFitMode>
+            <UseFullFontHeight>False</UseFullFontHeight>
+            <Verticalized>False</Verticalized>
+            <StyledText>
+                <Element>
+                    <String>[datetime]</String>
+                    <Attributes>
+                        <Font Family="Arial" Size="12" Bold="True" Italic="False" Underline="False" Strikeout="False" />
+                        <ForeColor Alpha="255" Red="0" Green="0" Blue="0" />
+                    </Attributes>
+                </Element>
+            </StyledText>
+        </TextObject>
+        <Bounds X="175" Y="3700" Width="3000" Height="345" />
+    </ObjectInfo>
+    <ObjectInfo>
+        <TextObject>
+            <Name>PeriodText</Name>
+            <ForeColor Alpha="255" Red="0" Green="0" Blue="0" />
+            <BackColor Alpha="0" Red="255" Green="255" Blue="255" />
+            <LinkedObjectName></LinkedObjectName>
+            <Rotation>Rotation0</Rotation>
+            <IsMirrored>False</IsMirrored>
+            <IsVariable>False</IsVariable>
+            <HorizontalAlignment>Center</HorizontalAlignment>
+            <VerticalAlignment>Middle</VerticalAlignment>
+            <TextFitMode>AlwaysFit</TextFitMode>
+            <UseFullFontHeight>False</UseFullFontHeight>
+            <Verticalized>False</Verticalized>
+            <StyledText>
+                <Element>
+                    <String>[studentname]</String>
+                    <Attributes>
+                        <Font Family="Arial" Size="12" Bold="False" Italic="False" Underline="False" Strikeout="False" />
+                        <ForeColor Alpha="255" Red="0" Green="0" Blue="0" />
+                    </Attributes>
+                </Element>
+            </StyledText>
+        </TextObject>
+        <Bounds X="175" Y="4500" Width="3000" Height="345" />
+    </ObjectInfo>
+</DieCutLabel>
