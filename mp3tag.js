@@ -5460,7 +5460,7 @@
                     var r = arguments.length > 0 && void 0 !== arguments[0] ? arguments[0] : {};
                     this.tags = {}, this.error = "";
                     try {
-                        this.tags = await t.readBuffer(this.buffer, r, this.verbose)
+                        this.tags = t.readBuffer(this.buffer, r, this.verbose)
                     } catch (t) {
                         this.error = t.message
                     }
